@@ -1,15 +1,15 @@
 {
-  "name": "19_11_2020",
+  "name": "nodejs",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.html",
+  "description": "Prova",
+  "main": "index.js",
   "scripts": {
-    "start": "browser-sync start --server --cwd --watch",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "start"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "browser-sync": "^2.26.13"
-  }
+    "browser": "^0.2.6"
+  },
+  "devDependencies": {}
 }
